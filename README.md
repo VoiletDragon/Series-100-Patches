@@ -1,2 +1,2 @@
 # Series-100-Patches
-Skylake ACPI Patches
+Some Series 100 ACPI Patches for Skylake. 
